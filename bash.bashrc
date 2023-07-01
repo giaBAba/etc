@@ -1,36 +1,36 @@
 sshd
 
-echo "  ~~”9„9”9…46„3”9…9”9„8”9†0”9„9”9…0”9þ0”9ˆ5”9‡8”9ˆ0”9ˆ8”9ˆ2”9‰5 ~~ ";
+echo "  ~~ðŸ…“ðŸ…˜á»‡ðŸ…ðŸ…’ðŸ…žðŸ…“ðŸ…”ðŸ˜ŽðŸ…·ðŸ…°ðŸ…²ðŸ…ºðŸ…´ðŸ† ~~ ";
 sleep 2
 
-echo "( ~~”9þ0”9„8”9†0”9„9 ”9„7”9‡0 ”9„9”9…4”9…0”9…9 ”9…3”9„6”9„8”9…6”9…0”9†3”9þ0 ~~ )";
+echo "( ~~ðŸ˜ŽðŸ…’ðŸ…žðŸ…“ ðŸ…‘ðŸ…¨ ðŸ…“ðŸ…˜ðŸ…”ðŸ… ðŸ…—ðŸ…ðŸ…’ðŸ…šðŸ…”ðŸ…¡ðŸ˜Ž ~~ )";
 sleep 3
 
-echo " ch¨²c Ae 04¨¤o coin th67t nhi6ƒ7u ti6ƒ7n";
+echo " chÃºc Ae Ä‘Ã o coin tháº­t nhiá»u tiá»n";
 sleep 1
 
-echo "load... 04ang l5þ9y th0‹0ng tin 7½7 ";
+echo "load... Ä‘ang láº¥y thÃ´ng tin âœ“ ";
 sleep 5
 
-echo "load... c67p nh67t l5þ5i th0‹0ng tin7½7";
+echo "load... cáº­p nháº­t láº¡i thÃ´ng tinâœ“";
 sleep 2
 
-echo "load... b5þ9t 0461u login7½7  ";
+echo "load... báº¥t Ä‘áº§u loginâœ“  ";
 sleep 2
-     echo "¨€¨€¨€¨€¨€¨€¨€¨{¨{¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€¨{ ";
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ ";
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ ";
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ ";
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ ";
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ "
-echo "¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨ˆ¨€7™47™47™47™47™47™47™47™47™47™47™47™47™47™4¨€ ";
-echo "¨€¨€¨€¨€¨€¨€7™27™47™47™47™47™47™47™4¨€¨€¨€¨€¨€¨€7™2 ";
-echo "         ¨€7™47™47™47™4¨€ ";
-echo "         ¨€7™47™47™47™4¨€ ";
-echo "           ¨€7™47™4¨€ ";
-echo "           ¨€7™47™4¨€ ";
-echo "            7™2*6³1 ";
+     echo "â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„â–„â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–„ ";
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ ";
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ ";
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ ";
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ ";
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ "
+echo "â–“â–“â–“â–“â–“â–“â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆ ";
+echo "â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–€ ";
+echo "         â–ˆâ–‘â–‘â–‘â–‘â–ˆ ";
+echo "         â–ˆâ–‘â–‘â–‘â–‘â–ˆ ";
+echo "           â–ˆâ–‘â–‘â–ˆ ";
+echo "           â–ˆâ–‘â–‘â–ˆ ";
+echo "            â–€*â‚« ";
 sleep 5
-echo "load... ccminer start ubuntu mining coin7½7 ";
+echo "load... ccminer start ubuntu mining coinâœ“ ";
 sleep 3
 proot-distro login ubuntu
